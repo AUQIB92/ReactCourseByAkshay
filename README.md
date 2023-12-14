@@ -1,1 +1,1 @@
-# React Leraning Resoucres 
+# React Learning Resources 
